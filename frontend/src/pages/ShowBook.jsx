@@ -61,7 +61,7 @@ const ShowBook = () => {
         )
       }
     </div>
-  )
-}
+  );
+};
 
 export default ShowBook;

@@ -36,7 +36,7 @@ const DeleteBook = () => {
                 <button className="p-4 bg-gray-600 text-white m-8 w-full" onClick={() => navigate("/")}>Cancel</button>
             </div>
         </div>
-    )
-}
+    );
+};
 
 export default DeleteBook;

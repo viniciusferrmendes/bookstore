@@ -66,7 +66,7 @@ const CreateBook = () => {
                 <button className="p-2 bg-sky-300 m-8" onClick={handleSaveBook}>Save</button>
             </div>
         </div>
-    )
-}
+    );
+};
 
 export default CreateBook;
